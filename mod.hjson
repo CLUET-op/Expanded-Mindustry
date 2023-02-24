@@ -1,0 +1,22 @@
+displayName: "Expanded Mindustry"
+
+#the internal name of your mod
+name: "expanded-mindustry"
+
+#your name
+author: "[blue] CLUET"
+
+#the mod description as seen in the mod dialog
+description: ""
+
+#short description displayed under the title
+subtitle: "V7 compatible"
+
+#the mod version
+version: v0.1 alpha
+
+#the minimum game build required to run this mod
+minGameVersion: 141.2
+
+#this is a java mod
+java: false
