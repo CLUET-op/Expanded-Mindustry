@@ -1,0 +1,7 @@
+{
+	"name": "Aluminum",
+	"description": "Aluminum is a light-weight metal used for many purposes.",
+	"type": "material",
+	"color": "bfbfff",
+        "hardness": 0.15
+}
